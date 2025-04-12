@@ -1,1 +1,1 @@
-<h1 id="brand-logo"><a href="<?php echo $app->getBaseUrl() ?>"><img src="<?php $this->asset('img/logo-spcultura.png'); ?>" /></a></h1>
+<h1 id="brand-logo"><a href="<?php echo $app->getBaseUrl() ?>"><img src="<?php $this->asset('img/logoVarjota_2.png'); ?>" style="width: 50px; height: 50px;" /></a></h1>

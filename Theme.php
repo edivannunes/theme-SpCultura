@@ -1,5 +1,5 @@
 <?php
-namespace SpCultura;
+namespace MapasCulturais\Themes\VarjotaCultura;
 use MapasCulturais\Themes\BaseV1;
 use MapasCulturais\App;
 
